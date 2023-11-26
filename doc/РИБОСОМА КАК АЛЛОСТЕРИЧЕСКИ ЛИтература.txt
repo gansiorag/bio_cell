@@ -1,0 +1,94 @@
+﻿>>1.Steitz, T.M. (2008) A structural understanding of the dynamic ribosome machine, Nat. Rev. Mol. Cell Biol., 9, 242–253.
+>>2.Voorhees, R.M., Ramakrishnan, V. (2013) Structural basis of the translational elongation cycle, Annu. Rev. Biochem., 82, 203–236.
+>>3.Changeux, J.P. (2013) 50 years of allosteric interactions: the twists and turns of the models, Nat. Rev. Mol. Cell Biol., 14(12), 819–829. 
+>>4.Cornish-Bowden, A. (2014) Understanding allosteric and cooperative interactions in enzymes, FEBS Journal, 281, 621–632. 
+>>5.Kleckner, I.R, Gollnick, P., Foster, M.P. (2012) Mechanisms of Allosteric Gene Regulation by NMR Quantification of μs-ms Protein Dynamics, Journal of Molecular Biology, 415(2), 372–381. >>6.Stower, H. (2013) Gene Regulation: Allosteric effects, Nat. Rev. Genet., 14, 238. 
+>>7.Cecchini, M., Changeux, J.P. (2015) The nicotinic acetylcholine receptor and its prokaryotic homologues: Structure, conformational transitions and allosteric modulation, Neuro­ pharmacology, 96(Pt B), 137–149. 
+>>8.Kim, S, Broströmer, E, Xing, D, Jin, J., Chong, S., Ge, H., Wang, S. Gu, Ch., Yang, L., Gao, Y.Q., Su, X., Sun, Y., Xie, X.S. (2013) Probing allostery through DNA, Science (New York, NY), 339(6121), 816–819.
+>>9.Chen, I. (2013) Allostery through DNA, Nat. Struct. Mol. Biol., 20, 410. 
+>>10. Soukup, G.A. (2004) Aptamers meet allostery. Chem. Biol., 11, 1031–1032
+>>11. Goodey, N.M., and Benkovic, S.J. (2008) Allosteric regulation and catalysis emerge via a common route, Nat. Chem Biol., 4(8), 474–482.
+>>12. Monod, J., Wyman, J., Changeux, J.‑P. (1965). On the nature of allosteric transitions: a plausible model, J. Mol. Biol., 12, 88–118.
+>>13. Koshland, D.E., Némethy, G., Filmer, D. (1966) Comparison of experimental binding data and theoretical models in proteins containing subunits, Biochemistry, 5, 365–385.
+>>14. Saibil, H.R., Fenton, W.A., Clare, D.K., Horwich, A.L. (2013). Structure and allostery of the chaperonin GroEL, J. Mol. Biol., 425, 1476–1487. 
+>>15. Hilser, V.J., Wrabl, J.O., Motlagh, H.N. (2012) Structural and energetic basis of allostery, Ann. Rev. Biophys., 41, 585–609. 
+>>16. Hol, T.C, Cox, M.B., Bryant, H.U., Draper, M.W. (1997) Selective estrogen receptor modulators and postmenopausal women's health, J. Womens Health, 6, 523–531.
+>>17. Katzenellenbogen, B.S., Montano, M.M., Ekena, K., Herman, M.E., McInerney, E.M. (1997) Antiestrogens: mechanisms of action and resistance in breast cancer, Breast Cancer Res. Treat., 44, 23–38. 
+>>18. Gunasekaran, K., Ma, B., Nussinov, R. (2004) Is allostery an intrinsic property of all dynamic proteins?, Proteins, 57, 433–443.
+>>19. Feher, V.A., Durrant, J., Van Wart, A.T., Amaro, R.E. (2014) Computational approaches to mapping allosteric pathways, Current opinion in structural biology, 25, 98–103.
+>>20. Holliday, M.J., Camilloni, C., Armstrong, G.S., Vendruscolo, M., Eisenmesser, E.Z. (2017) Networks of dynamic allostery regulate enzyme function, Structure (London, England, 1993), 25(2), 276–286.
+>>21. Daily, M.D., Gray, J.J. (2009) Allosteric Allosteric communication
+occurs via networks of tertiary and quaternary motions in proteins, Jacobson MP, ed. PLoS Computational Biology, 5(2), e1000293. 
+>>22. Tsai, C.J., del Sol, A., Nussinov, R. (2008) Allostery: absence of a change in shape does not imply that allostery is not at play, J. Mol. Biol., 378, 1–11.
+>>23. Cooper, A., Dryden, D.T.F. (1984) Allostery without conformational change. A plausible model, Eur. Bio­ phys. J., 11, 103–109.
+>>24. Panjkovich, A., Daura, X. (2012) Exploiting protein flexibility to predict the location of allosteric sites, BMC Bioinformatics, 13, 273.
+>>25. Chan, Y.L., Dresios, J., Wool, I.,G. (2006) A pathway for the transmission of allosteric signals in the ribosome through a network of RNA tertiary interactions, J. Mol. Biol., 355, 1014–1025.
+>>26. Burakovsky, D.E., Sergiev, P.V., Steblyanko, M.A., Konevega, A.L., Bogdanov, A.A., Dontsova, O.A. (2011) The structure of helix 89 of 23S rRNA is important for peptidyl transferase function of Escherichia coli ribosome, FEBS Lett., 585, 3073–3078.
+>>27. Rheinberger, H.J., Sternbach, H., Nierhaus, K.H. (1986) Codon-anticodon interaction at the ribosomal E site, J. Biol. Chem., 261, 9140–9143.
+>>28. Gnirke, A., Geigenmuller, U., Rheinberger, H.J., Nierhaus, K.H. (1989) The allosteric three-site model for the ribosomal elongation cycle. Analysis with a heteropolymeric mRNA, J. Biol. Chem., 264, 7291–7301.
+>>29. Nierhaus, K.H. (1990) The allosteric three-site model for the ribosomal elongation cycle: features and future, Biochemistry, 29, 4997–5008.
+>>30. Marquez, V., Wilson, D.N., Tate, W.P., Triana-Alonso, F., Nierhaus, K.H. (2004) Maintaining the ribosomal reading frame: the influence of the E site during translational regulation of release factor 2, Cell, 118, 45–55.
+>>31. Geigenmuller, U., Nierhaus, K.H. (1990) Significance of the third tRNA binding site, the E site, on E. coli ribosomes for the accuracy of translation: an occupied E site prevents the binding of non-cognate aminoacyl-tRNA to the A site, EMBO J., 9(13), 4527–4533.
+>>32. Di Giacco, V., Márquez, V., Qin, Y., Pech, M., Triana-Alonso, F.J., Wilson, D.N., Nierhaus, K.H. (2008) Shine-Dalgarno interaction prevents incorporation of noncognate amino acids at the codon following the AUG, Proc. Natl. Acad. Sci. USA, 105, 10715–10720. 
+>>33. Nierhaus, K.H. (2006) Decoding errors and the involvement of the E-site, Biochimie, 88, 1013–1019.
+>>34. Leger, M., Dulude, D., Steinberg, S.V., Brakier-Gingras, L. (2007) The three transfer RNAs occupying the A, P, and E sites on the ribosome are involved in viral programmed -1 ribosomal frameshift, Nucl. Acids Res., 35, 5581–5592.
+>>35. Liao, P.Y., Gupta, P., Petrov, A.N., Dinman, J.D., Lee, K.H. (2008) A new kinetic model reveals the synergistic effect of E-, P- and A-sites on ю1 ribosomal frameshifting, Nucl. Acids Res., 36, 2619–2629.
+>>36. Semenkov, Y.P., Rodnina, M.V., Wintermeyer, W. (1996) The «allosteric three-site model» of elongation cannot be confirmed in a well-defined ribosome system from Escherichia coli, Proc. Natl. Acad. Sci. USA, 93, 12183–12188.
+>>37. Chen, C., Stevens, B., Kaur, J., Smilansky, Z., Cooperma, B.S., Goldman, Y.E. (2011) Allosteric vs. spontaneous exit-site (E-site) tRNA dissociation early in protein synthesis, Proc. Natl. Acad. Sci. USA, 108(41), 16980–16985.
+>>38. Schmeig, T.M., Moore, P.B., Steitz, T.A. (2003) Structures of deacylated tRNA mimics bound to the E site of the large ribosomal subunit., RNA, 9(11), 1345–1352.
+>>39. Rakauskaitė, R., Dinman, J.D. (2008) rRNA mutants in the yeast peptidyltransferase center reveal allosteric information networks and mechanisms of drug resistance, Nucl. Acids Res., 36(5), 1497–1507.
+>>40. Schmeing, T.M, Voorhees, R.M, Kelley, A.C., Yong-Gui, G., Murphy, F.V. 4th, Weir, J.R., Ramakrishnan, V. (2009) The crystal structure of the ribosome bound to EF-Tu and aminoacyl-tRNA , Science, 326, 688–694.
+>>41. Schmeing, T.M., Voorhees, R.M., Kelley, A.C., Ramakrishnan, V. (2011). How mutations in tRNA distant from the anticodon affect the fidelity of decoding, Nat. Struct. Mol. Biol., 18(4), 432–436.
+>>42. Hirsh, D. (1970) Tryptophan tRNA of Escherichia coli, Nature, 228, 57.
+>>43. James, M.O., Frank, V. Murphy, I.V., Michael, J.T., V. Ramakrishnan (2002) Selection of tRNA by the ribosome requires a transition from an open to a closed form, Cell, 111, 721–732.
+>>44. Lodmell, J.S., Dahlberg, A.E. (1997). A conformational switch in Escherichia coli 16S ribosomal RNA during decoding of messenger RNA, Science, 277(5330), 1262–1267.
+>>45. Kamath, D., Gregory, S.T., O'Connor, M. (2017) Selection of tRNA by the ribosome requires a transition from an open to a closed form, Antimicrob. Agents Chemother., 61(2), e01186–16.
+>>46. Kamath, D., Allgeyer, B.B., Gregory, S.T., Bielski, M.C., Roelofsz, D.M., Sabapathypillai, S.L., Vaid, N., O'Connor, M. (2017) The C-terminus of ribosomal protein uS4 contributes to small ribosomal subunit biogenesis and the fidelity of translation, Biochimie, 138, 194–201.
+>>47. McClory, S.P., Leisring, J.M., Qin, D., Fredrick, K. (2010) Missense sup
+pressor mutations in 16S rRNA reveal the importance of helices h8 and h14 in aminoacyl-tRNA selection, RNA, 16(10), 1925–1934. 
+>>48. Fagan, C.E., Dunkle, J.A., Maehigashi, T., Dang, M.N., Devaraj, A., Miles, S.J., Daoming, Q., Fredrick, K., Dunham, C. M. (2013). Reorganization of an intersubunit bridge induced by disparate 16S ribosomal ambiguity mutations mimics an EFTu-bound state, Proc. Nat. Acad. Sci. USA, 110(24), 9716–9721. 
+>>49. Smith, M.W., Meskauskas, A., Wang, P., Sergiev, P.V., Dinman, J.D. (2011) Saturation mutagenesis of 5S rRNA in Saccharomyces cerevisiae, Mol. Cell. Biol., 21(24), 8264–8275.
+>>50. O'Connor, M., Dahlberg, A.E. (1995) The involvement of two distinct regions of 23 S ribosomal RNA in tRNA selection. J. Mol. Biol., 254, 838–847.
+>>51. Polacek, N., Gomez, M.J., Ito, K., Xiong, L., Nakamura, Y., Mankin, A. (2003) The critical role of the universally conserved A2602 of 23S ribosomal RNA in the release of the nascent peptide during translation termination, Mol. Cell., 11, 103–112.
+>>52. Youngman, E.M., Brunelle, J.L., Kochaniak, A.B., Green, R. (2004) The active site of the ribosome is composed of two layers of conserved nucleotides with distinct roles in peptide bond formation and peptide release, Cell, 117, 589–599.
+>>53. Simonovic, M., Steitz, T.A (2008) Cross-crystal averaging reveals that the structure of the peptidyl-transferase center is the same in the 70S ribosome and the 50S subunit, Proc. Nat. Acad. Sci. USA, 105, 500–505. 
+>>54. Long, K.S., Vester, B. (2012) Resistance to linezolid caused by modifications at its binding site on the ribosome, Antimicrob. Agents Chemother., 56, 603–612.
+>>55. Tenson, T., Ehrenberg, M. (2002) Regulatory nascent peptides in the ribosomal tunne, Cell, 108, 591–594.
+>>56. Bogdanov, A.A., Sumbatyan, N.V., Shishkina, A.V., Karpenko, V.V., Korshunova, G.A. (2010) Ribosomal tunnel and translation regulation, Biochemistry (Moscow), 75, 1501.
+>>57. Vázquez-Laslop, N., Mankin, A.S. (2014) Triggering peptide-dependent translation arrest by small molecules: ribosome stalling modulated by antibiotics, Regulatory Nascent Polypeptides, ed. Ito K (Springer, New York). 
+>>58. Ito, K., Chiba, S. (2013) Arrest peptides: Cis-acting modulators of t ranslation, Annu Rev. Biochem., 82, 171–202.
+>>59. Vázquez-Laslop, N., Ramu H., Mankin A. (2011) Nascent peptide-mediated ribosome stalling promoted by antibiotics, Ribosomes: Structure, Function, and Dynamics, Section V, 377–392.
+>>60. Sothiselvam, S., Liu, B., Han, W., Ramu, H., Klepacki, D., Atkinson, G.C., Brauer A., Remm, M., Tenson, T., Schulten, K., Vázquez-Laslop, N., Mankin, A.S. (2014). Macrolide antibiotics allosterically predispose the ribosome for translation arrest, Proc. Natl. Acad. Sci. USA, 111(27), 9804–9809. 
+>>61. Seidelt, B., Innis, C. A., Wilson, D. N., Gartmann, M., Armache, J.-P., Villa, E., Leonardo G.T., Becker, T., Mielke, T., Schulten, K., Steitz, T.A., Beckmann, R. (2009). Structural insight into nascent polypeptide chain-mediated translational stalling, Science (New York, N.Y.), 326(5958), 1412–1415.
+>>62. Makarov, G.I., Golovin, A.V., Sumbatyan, N.V., Bogdanov, A.A. (2015) Molecular dynamics investigation of a mechanism of allosteric signal transmission in ribosomes, Biochemistry (Moscow), 80, 1047–1056.
+>>63. Rhodin, M.H.J and Dinman, J.D. (2011) An extensive network of information flow through the B1b/c intersubunit bridge of the yeast ribosome, PLoS One, 6(5), e20048.
+>>64. Khaitovich, P and Mankin, A.S. (1999) Effect of antibiotics on large ribosomal subunit assembly reveals possible function of 5 S rRNA, J. Mol. Biol., 291, 1025–1034.
+>>65. Fischer, N., Konevega, A.L., Wintermeyer, W., Rodnina, M.V., Stark, H. (2010) Ribosome dynamics and tRNA movement by time-resolved electron cryomicroscopy, Nature, 466, 329–333.
+>>66. Frank, J., Agrawal, R.K. (2000) A ratchet-like inter-subunit reorganization of the ribosome during translocation, Nature, 406, 318–322.
+>>67. Blanchard, S.C., Kim, H.D., Gonzalez, R.L., Puglisi, J.D., Chu, S. (2004). tRNA dynamics on the ribosome during translation, Proc. Natl. Acad. Sci. USA, 101(35), 12893–12898.
+>>68. Fei, J., Kosuri, P., MacDougall, D.D., Gonzalez, R.L. (2008) Coupling of ribosomal L1 stalk and tRNA dynamics during translation elongation, Mol. Cell, 30, 348–359.
+>>69. Cornish, P.V., Ermolenko, D.N., Noller, H.F., Ha, T. (2008) Spontaneous intersubunit rotation in single ribosomes, Mol. Cell., 30, 578–588.
+>>70. Cornish, P.V., Ermolenko, D.N., Staple, D.W., Hoang, L., Hickerson, R.P., Noller, H.F., Ha, T. (2009). Following movement of the L1 stalk between three functional states in single ribosomes, Proc. Natl. Acad. Sci. USA, 106(8), 2571–2576.
+>>71. Liu, Q., Fredrick, K. (2013). Contribution of intersubunit bridges to the energy barrier of ribosomal translocation, Nucleic Acids Research, 41(1), 565–574.
+>>72. Fei, J., Bronson, J.E., Hofman, J.M., Srini vas, R.L., Wiggins, C.H., Gonzalez, R.L. (2009). Allostericcollaboration between elongation factor G and the ribosomal L1 stalk directs tRNA movements during translation, Proc. Natl. Acad. Sci. USA, 106(37), 15702–15707. 
+>>73. Shoji, S., Walker, S.E., Fredrick, K. (2009). Ribosomal translocation: one step closer to the molecular mechanism, ACS Chemical Biology, 4(2), 93–107. 
+>>74. Tsai, A., Uemura, S., Johansson, M., Puglisi, E.V., Marshall, R.A., Aitken, C.E., Korlach, J., Ehrenberg, M., Puglisi, J. D. (2013) The impact of aminoglycosides on the dynamics of translation elongation, Cell Reports, 3(2), 497–508.
+>>75. Wang, L., Pulk, A., Wasserman, M.R., Feldman, M.B., Altman, R.B., Cate, J.H.D., Blanchard, S.C. (2012). Allosteric control of the ribosome by small-molecule antibiotics, Nat. Struct. Mol. Biol., 19(9), 957–963.
+>>76. Ning, W., Fei, J., Gonzalez, R.L. (2014). The ribosome uses cooperative conformational changes to maximize and regulate the efficiency of translation, Proc. Natl. Acad. Sci. USA, 111(33), >>12073–12078. 
+>>77. Shoji, S., Walker, S.E., Fredrick, K. (2006) RReverse translocation of tRNA in the ribosome Molecular Cell, 24(6), 931–942.
+>>78. Fredrick K., Noller H.F. (2003) Catalysis of ribosomal translocation by sparsomycin, Science, 300, 1159–1162.
+>>79. Ermolenko, D.N., Cornish, P.V., Ha, T., Noller, H.F. (2013). Antibiotics that bind to the A site of the large ribosomal subunit can induce mRNA translocation, RNA, 19(2), 158–166.
+>>80. Zavialov, A.V., Ehrenberg, M. (2003) Peptidyl-tRNA regulates the GTPase activity of translation factors, Cell, 114, 113–122.
+>>81. Chen, C., Stevens, B., Kaur, J., Cabral, D., Liu, H.Q., Wang, Y.H., Zhang, H.B., Rosenblum, G., Smilansky, Z., Goldman, Y.E., Cooperman, B.S. (2011) Single molecule fluorescence measurements of ribosomal translocation dynamics, Mol. Cell, 42, 367–377.
+>>82. Sergiev, P.V., Lesnyak, D.V., Kiparisov, S.V., Burakovsky, D.E., Leonov, A.A., Bogdanov, A.A., Brimacombe, R., Dontsova, O.A. (2005). Function of the ribosomal E‑site: a mutagenesis study, Nucleic Acids Research, 33(18), 6048–6056.
+>>83. Sergiev, P.V., Kiparisov, S.V., Burakovsky, D.E., Lesnyak, D.V., Leonov, A.A., Bogdanov, A.A., Dontsova, O.A. (2005) The conserved A-site finger of the 23S rRNA: just one of the intersubunit bridges or a part of the allosteric communication pathway, J. Mol. Biol., 353, 116–123. 
+>>84. Sergiev, P.V., Lesnyak, D.V., Burakovsky, D.E., Kiparisov, S.V., Leonov, A.A., Bogdanov, A.A., Brimacombe, R., Dontsova, O.A. (2005) Alteration in location of a conserved GTPase-associated center of the ribosome induced by mutagenesis influences the structure of peptidyltransferase center and activity of elongation factor G, J. Biol. Chem., 280, 31882–31889.
+>>85. Sergiev, P.V., Bogdanov, A.A., Dahlberg, A.E., Dontsova, O.A. (2000) Mutations at position A960 of E. coli 23S ribosomal RNA influence the structure of 5S ribosomal RNA and the peptidyltransferase region of 23S ribosomal RNA, J. Mol. Biol., 299, 379–389.
+>>86. Lancaster, L., Lambert, N.J., Maklan, E.J., Horan, L.H., Noller, H.F. (2008). The sarcin–ricin loop of 23S rRNA is essential for assembly of the functional core of the 50S ribosomal subunit, RNA, 14(10), 1999–2012.
+>>87. Petrov, A., Meskauskas, A., Dinman, J.D. (2004) Ribosomal protein L3: influence on ribosome structure and function, RNA biology, 1(1), 59–65.
+>>88. Belousoff, M.J., Eyal, Z., Radjainia, M., Ahmed, T., Bamert, R.S., Matzov, D., Bashan, A., Zimmerman, E.,Mishra, S., Cameron, D., Elmlund, H., Peleg, A.Y., Bhushan, S., Lithgow, T., Yonath, A. (2017). Structural basis for linezolid binding site rearrangement in the Staphylococcus aureus ribosome, mBio, 8(3), e00395–17.
+>>89. Blaha, G., Gurel, G., Schroeder, S.J., Moore, P.B., Steitz, T.A. (2008) Mutations outside the anisomycin binding site can make ribosomes drug-resistant, Journal of molecular biology, 379(3), 505–519.
+>>90. Stagno, J.R., Liu, Y., Bhandari, Y.R. et al. (2017) Structures of riboswitch RNA reaction states by mix-andinject XFEL serial crystallography, Nature, 541, 242-246.
+>>91. Makarov, G.I., Makarova, T.M., Sumbatyan, N.V., Bogdanov, A.A. (2016) Investigation of ribosomes using molecular dynamics simulation methods, Biochemistry (Moscow), 81(13), 1579–1588.
+>>92. Achenbach, J., Nierhaus, K.H. (2013) Translocation at work, Nat. Struct. Mol. Biol., 20, 1019–1022.
+
